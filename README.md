@@ -40,5 +40,14 @@ skills that I have learned can finally contribute to that goal.
 I used to work on designing, modeling and controlling of the UAVs.
 But for now, my research interest includes SLAM, 3D reconstruction, Robotics.
 
--
+**[Networked Autonomous Vehicles (NAV) Lab of Concordia](https://www.youtube.com/user/NAVConcordia), Montreal, QC:**
 
+- [UAV-based Wildfire Perception and Management](https://github.com/ConcordiaNAVlab/early_wildfire_perception)
+
+- [A Lightweight Stereo Camera Visual Odometry](https://github.com/lee-shun/stereo_camera_vo)
+
+- [ORB-SLAM2 with RGB-D Dense Map](https://github.com/lee-shun/ORB_SLAM2_DENSE_MAP_ELE)
+
+**Aircraft Dynamics and Control Lab of BIT, Beijing, China:**
+
+- [Fixed-Wing UAVs Formation Control](https://github.com/lee-shun/fixed_wing_formation_control)
