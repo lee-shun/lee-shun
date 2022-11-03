@@ -3,6 +3,11 @@
 I am currently open to work as a robotic engineer🤖. If you are interested, please contact me via
 [LinkedIn](https://www.linkedin.com/in/shun-li-72b596227/).
 
+|                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                             |
+|---                                                                                                                                                                                                                              |---                                                                                                                                                                                                                                                                                                        |  
+|![lee-shun's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-shun&show_icons=true)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee-shun)](https://github.com/anuraghazra/github-readme-stats)|
+
+
 ## About Me
 
 My name is Shun Li, a robotics engineer candidate🤖 and a vimer👍!
