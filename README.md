@@ -42,7 +42,7 @@ But for now, my research interest includes SLAM, 3D reconstruction, Robotics.
 
 **[Networked Autonomous Vehicles (NAV) Lab of Concordia](https://www.youtube.com/user/NAVConcordia), Montreal, QC:**
 
-- [UAV-based Wildfire Perception and Management](https://github.com/ConcordiaNAVlab/early_wildfire_perception)
+- [UAV-based Wildfire Perception and Management](https://github.com/lee-shun/forest_fire_detection_system)
 
 - [A Lightweight Stereo Camera Visual Odometry](https://github.com/lee-shun/stereo_camera_vo)
 
