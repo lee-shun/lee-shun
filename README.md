@@ -9,9 +9,9 @@ Find me on [LinkedIn](https://www.linkedin.com/in/shun-li-72b596227/).
 
 ## About Me
 
-My name is Shun Li, a robotics engineer candidate🤖 and a vimer👍!
+My name is Shun Li!
 
-I am a highly self-promoted🚀 student and always willing to open my eyes👀 for new knowledge and challenges.
+I am highly self-promoted🚀 and always willing to open my eyes👀 for new knowledge and challenges.
 Several year experience, from the field of UAV✈ modeling/control to robotics localization/mapping (SLAM📷), gives me a
 relative broad vision for the whole autonomous system.
 
