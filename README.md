@@ -1,7 +1,6 @@
 # Shun Li
 
-I am currently open to work as a robotic engineer🤖. If you are interested, please contact me via
-[LinkedIn](https://www.linkedin.com/in/shun-li-72b596227/).
+Find me on [LinkedIn](https://www.linkedin.com/in/shun-li-72b596227/).
 
 |                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                             |
 |---                                                                                                                                                                                                                              |---                                                                                                                                                                                                                                                                                                        |  
